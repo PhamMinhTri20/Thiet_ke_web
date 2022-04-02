@@ -4,5 +4,5 @@
 # Học tại             : Trường Cao Đẳng Kỹ Thuật Công Nghệ Nha Trang
 # Sống tại            : Diên Khánh
 # Tình trạng hôn nhân : Độc thân
-# FaceBook            : http://facbook.com/Hi.Im.Mr.Trii
-# Instagram           : http://instagram.com/pmt_0111
+# FaceBook            : http://facbook.com/
+# Instagram           : http://instagram.com/
