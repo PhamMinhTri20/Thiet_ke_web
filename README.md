@@ -3,7 +3,6 @@
                <h1>
                		Chào Mừng Đến Với Trang Cá Nhân Của Tôi! 
                </h1>
-</div>
                <h2>
                		Tôi tên  : Phạm Minh Trí 
                </h2>
@@ -28,43 +27,9 @@
         	   </h5>
                <h6>
                		Ngành Học : Công Nghệ Thông Tin
-              </h6>
-              <h7>
-              		Lịch Học:
-              </h7>
-              <table border="2" cellspacing="1" cellpadding="5">
-    <tr>
-        <td>Thứ 2</td>
-        <td>Thứ 3</td>
-        <td>Thứ 4</td>
-        <td>Thứ 5</td>
-        <td>Thứ 6</td>
-        <td>Thứ 7</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td>Cấu trúc dữ liệu và giải thuật</td>
-        <td></td>
-        <td>Tiếng anh CN</td>
-        <td>Cơ sở dữ liệu</td>
-        <td>Thiết kế và quản trị Website</td>
-    </tr>
-    <tr>
-    	<td>Lập trình python cơ bản</td>
-        <td>Lập trình python cơ bản</td>
-        <td>Lắp ráp và bảo trì máy tính</td>
-        <td>Giáo dục thể chất</td>
-        <td>Thiết kế và quản trị Website</td>
-        <td></td>
-    </tr>
-</table>
-  </div>
-     
-  <div class="a">
-      <p> ➣Tài Khoản Github của tôi!!</p>
-      <p>⇓<p>
-      <a href= "https://github.com/PhamMinhTri20" > Link Github </a>
-  </div>
-  
+               </h6>
+               <h7>
+                    Lớp : CNTT15B
+               </h7>
 </body>
 </html>
