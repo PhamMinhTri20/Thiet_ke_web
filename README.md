@@ -32,7 +32,6 @@
                    	 Lớp : CNTT15B
                </h7>
 	       <h8>
-		          Hello
 	       </h8>
 </body>
 </html>
