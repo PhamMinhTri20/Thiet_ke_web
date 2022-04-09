@@ -1,15 +1,5 @@
 <html>
 <body>
-  		<title>
-        		Hello!!
-  		</title>
-<style>
-  div.a{
-  text-align: center;
-  }
-</style>
-
-<div class="a">
                <h1>
                		Chào Mừng Đến Với Website Của Tôi! 
                </h1>
