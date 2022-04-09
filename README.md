@@ -1,7 +1,7 @@
 <html>
 <body>
                <h1>
-               		Chào Mừng Đến Với Website Của Tôi! 
+               		Chào Mừng Đến Với Trang Cá Nhân Của Tôi! 
                </h1>
 </div>
                <h2>
